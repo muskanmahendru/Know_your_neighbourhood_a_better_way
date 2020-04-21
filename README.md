@@ -6,3 +6,7 @@
 
 **Aim** - To build an application for newly shifted people to chat with their neighbours helping them know each other.
 We will get the user's location then show them chat rooms available nearby based on their location where they can chat anonymously and if any user wants to connect then they can reveal their identity as and when they want to.
+
+## Author 
+
+[Priyansh Gupta](https://github.com/priyansh19)
