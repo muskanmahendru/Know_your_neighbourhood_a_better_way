@@ -17,4 +17,10 @@
  •	Test plan
  •	Development document
  •	Source code
+
+# Risk Management: 
+
+Our application will surely attract lagre number of users as it features the option of video calling and translation but there still lies a  sense of risk. In order to keep the platform safe and user-friendly certain guidelines should be maintained about the security and privacy of the user. Morever limits in file sharing, limited admin control and proper encryptions on chats act as major risks. Therefore, our team has to work towards verifying the content which is shared in order to maintain the propriety of the application.
+
+ 
  
