@@ -1,3 +1,24 @@
+
+ 
+ 
+=======
+G1
+------------------------------------
+G2
+------------------------------------
+### 2.3 Platform
+
+The project will be available both as Web-based application as well as android application.
+
+## 3. Goals and Scopes
+
+- User should be able to login to their account by using their username and password.
+- New user should be able to register to the application.
+- Suggestions for available chat rooms must be provided to the user based on his/her location.
+- Users must be able to be a part of the chat room anonymously, if he/she wishes so.
+- User must be able to connect to other user.
+- User must be able to share the locations through the application.
+
 ## 4. Deliverables:
 
 **1. External deliverables**: (The output of development that will fetch us revenue and will be available to the targeted audience)
@@ -20,7 +41,7 @@
 
 ## 5. Risk Management: 
 
-Our application will surely attract lagre number of users as it features the option of video calling and translation but there still lies a  sense of risk. In order to keep the platform safe and user-friendly certain guidelines should be maintained about the security and privacy of the user. Morever limits in file sharing, limited admin control and proper encryptions on chats act as major risks. Therefore, our team has to work towards verifying the content which is shared in order to maintain the propriety of the application.
-
- 
- 
+Our application will surely attract lagre number of users as it features the option of video calling and translation but there still lies a  sense of risk. 
+In order to keep the platform safe and user-friendly certain guidelines should be maintained about the security and privacy of the user. 
+Morever limits in file sharing, limited admin control and proper encryptions on chats act as major risks. Therefore, our team has to work towards
+verifying the content which is shared in order to maintain the propriety of the application.
