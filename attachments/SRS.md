@@ -1,4 +1,4 @@
-<!-- The Introduction and Overview part done by Daksh and Hridyanshu -->
+# Project Plan: Know_your_neighbourhood_a_better_way
 
 ## 1. Introduction
 
